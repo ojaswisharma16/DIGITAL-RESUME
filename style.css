@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  body {
+    background: #aaaaad;
+    line-height: 22px;
+    color: #131212;
+    font-style: inherit;
+    font-size: 15px;
+    font-weight: 520;
+  }
+  .resume{
+    width: 800px;
+    height: auto;
+    margin: 50px auto;
+  }
+  .resume nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #0f6be4;
+        padding: 5px 5%;
+        top: 0;
+        z-index: 100;
+  }
+  .title h3{
+      color:white;
+  }
+  .profile-photo{
+    width: 90px;
+    margin-right: 5px;
+    border-radius: 50%;
+  }
+  .bold {
+    font-weight: 900;
+    font-size: 35px;
+    text-transform: uppercase;
+  }
+  
+  .semi-bold {
+    font-weight: 700;
+    font-size: 16px;
+  }
+  .resume .right-nav{
+    width:180px;
+    height: 120px;
+    margin-left: 35px;
+    background-color: white;
+    padding-left: 13px;
+  }
+  .resume .right-nav h3{
+    color: orange;
+    font-style: oblique;
+    font-size: 26px;
+  }
+  .heading{
+    color: #0f6be4;
+    font-style:normal;
+    font-size: 26px;
+  }
+  .sub-heading{
+    color: #09091b;
+    font-style: inherit;
+    font-size: 18px;
+    font-weight: 520;
+  }
+  .about-marks{
+    color: #20020a;
+    font-style: initial;
+    font-size: 15px;
+    font-weight: 550; 
+  }
+
+  .content{
+    align-self: flex-start;
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    padding-top: 25px;
+}
+.left-content{
+    align-self: flex-start;
+    width:400px;
+    height: auto;
+    padding-left: 10px;
+}
+.right-content {
+    align-self: flex-start;
+    width:400px;
+    height: auto;
+    padding-left: 25px;
+    
+}
+.skills-btn{
+  width: 150px;
+  margin: auto;
+  cursor: pointer;
+  padding: 5px 15px;
+  border: 1px solid #858282;
+  color: #0a0a0a;
+  background: transparent;
+  border-radius: 4px;
+}
+.footer{
+        align-items: center;
+        justify-content: space-between;
+        background: #0f6be4;
+        padding: 5px 5%;
+        bottom: 0;
+        z-index: 100;
+        padding-left: 115px;
+}
+
+
+.imp-links a img{
+  width: 80px;
+  margin-right: 50px;
+}
+.imp-links{
+  display: flex;
+}
+.copyright{
+  padding-left: 90px;
+}
