@@ -5,4 +5,4 @@
 
 
 
-![MasterHead](https://github.com/ojaswisharma16/DIGITAL-RESUME/blob/main/DR-IMAGE.png)
+![MasterHead](https://github.com/ojaswisharma16/DIGITAL-RESUME/blob/main/images/DR-IMAGE.png)
